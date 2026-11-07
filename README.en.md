@@ -31,6 +31,7 @@ Naming convention: Use `_` to separate elements and `-` to separate words within
 | Configuration | Use case | Main tools |
 |---|---|---|
 | `base` | Verification with Claude Code | Claude Code |
+| `cdk` | Verification with AWS CDK | Claude Code, Node.js (LTS), AWS CLI, AWS CDK CLI |
 
 ## Prerequisites
 

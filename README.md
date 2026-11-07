@@ -31,6 +31,7 @@ tech-research/
 | 構成名 | 用途 | 主なツール |
 |---|---|---|
 | `base` | Claude Code を使った検証 | Claude Code |
+| `cdk` | AWS CDK を使った検証 | Claude Code, Node.js (LTS), AWS CLI, AWS CDK CLI |
 
 ## 前提条件
 
