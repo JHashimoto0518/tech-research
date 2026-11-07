@@ -12,7 +12,7 @@ Selectable tech stacks: Choose a dev container that contains only the tools you 
 tech-research/
 ├── .devcontainer/
 │   ├── shared/
-│   │   └── post-create.sh        # Setup shared by all stacks
+│   │   └── post_create.sh        # Setup shared by all stacks
 │   ├── base/devcontainer.json    # Minimal (Claude Code)
 │   └── <stack>/devcontainer.json # Any tech stack
 ├── research/

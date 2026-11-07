@@ -12,7 +12,7 @@ Claude Code を使って、AWS をはじめとする技術の調査と動作検�
 tech-research/
 ├── .devcontainer/
 │   ├── shared/
-│   │   └── post-create.sh        # 全スタック共通の初期化処理
+│   │   └── post_create.sh        # 全スタック共通の初期化処理
 │   ├── base/devcontainer.json    # 最小構成（Claude Code）
 │   └── <stack>/devcontainer.json # 任意の技術スタック
 ├── research/
